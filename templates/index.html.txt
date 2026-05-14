@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AR Flashcard Learning Platform</title>
+</head>
+<body>
+
+<h1>AR Flashcard Learning Platform</h1>
+
+<h2>A - Apple 🍎</h2>
+<h2>B - Ball ⚽</h2>
+<h2>C - Cat 🐱</h2>
+
+</body>
+</html>
